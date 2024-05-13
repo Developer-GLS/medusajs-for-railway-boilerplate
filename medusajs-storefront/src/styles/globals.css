@@ -111,7 +111,10 @@
   }
 }
 
-
+.logo-container img{
+  height: 100%;
+  object-fit: contain;
+}
 .hero-container {
   background: url('https://res.cloudinary.com/dteriun0k/image/upload/v1715574350/Medusa%20js%20Phral/kk_gu97sf.jpg');
   background-repeat: no-repeat;

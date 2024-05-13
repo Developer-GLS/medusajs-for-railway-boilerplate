@@ -110,3 +110,10 @@
     @apply text-[32px] leading-[44px] font-semibold;
   }
 }
+
+
+.hero-container {
+  background: url('https://res.cloudinary.com/dteriun0k/image/upload/v1715574350/Medusa%20js%20Phral/kk_gu97sf.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -72,6 +72,32 @@ const plugins = [
       },
     },
   },
+  {
+    resolve: `medusa-plugin-algolia`,
+    options: {
+      // other options...
+      settings: {
+        products: {
+          indexSettings: {
+            searchableAttributes: ["title", "description"],
+            attributesToRetrieve: [
+              "id",
+              "title",
+              "description",
+              "handle",
+              "thumbnail",
+              "variants",
+              "variant_sku",
+              "options",
+              "collection_title",
+              "collection_handle",
+              "images",
+            ],
+          },
+        },
+      },
+    },
+  },
 ];
 
 const modules = {

@@ -1,830 +1,940 @@
 [
     {
-        "title": "Medusa T-Shirt",
-        "categories": [
-            {
-                "id": "pcat_shirts"
-            }
-        ],
-        "subtitle": null,
-        "description": "Reimagine the feeling of a classic T-shirt. With our cotton T-shirts, everyday essentials no longer have to be ordinary.",
-        "handle": "t-shirt",
-        "is_giftcard": false,
-        "weight": 400,
-        "images": [
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-front.png",
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-black-back.png",
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-white-front.png",
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/tee-white-back.png"
-        ],
-        "options": [
-            {
-                "title": "Size",
-                "values": [
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                ]
-            },
-            {
-                "title": "Color",
-                "values": [
-                    "Black",
-                    "White"
-                ]
-            }
-        ],
-        "variants": [
-            {
-                "title": "S / Black",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 1950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2200
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "S"
-                    },
-                    {
-                        "value": "Black"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "S / White",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 1950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2200
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "S"
-                    },
-                    {
-                        "value": "White"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "M / Black",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 1950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2200
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "M"
-                    },
-                    {
-                        "value": "Black"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "M / White",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 1950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2200
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "M"
-                    },
-                    {
-                        "value": "White"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "L / Black",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 1950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2200
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "L"
-                    },
-                    {
-                        "value": "Black"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "L / White",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 1950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2200
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "L"
-                    },
-                    {
-                        "value": "White"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "XL / Black",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 1950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2200
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "XL"
-                    },
-                    {
-                        "value": "Black"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "XL / White",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 1950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2200
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "XL"
-                    },
-                    {
-                        "value": "White"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            }
-        ]
-    },
-    {
+        "id": "prod_01HXNTYS8YQE3ARG8FRVEENW1Q",
+        "created_at": "2024-05-12T07:23:27.227Z",
+        "updated_at": "2024-05-12T07:23:27.227Z",
+        "deleted_at": null,
         "title": "Medusa Sweatshirt",
-        "categories": [
-            {
-                "id": "pcat_shirts"
-            }
-        ],
         "subtitle": null,
         "description": "Reimagine the feeling of a classic sweatshirt. With our cotton sweatshirt, everyday essentials no longer have to be ordinary.",
         "handle": "sweatshirt",
         "is_giftcard": false,
+        "status": "published",
+        "thumbnail": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-front.png",
         "weight": 400,
+        "length": null,
+        "height": null,
+        "width": null,
+        "hs_code": null,
+        "origin_country": null,
+        "mid_code": null,
+        "material": null,
+        "type_id": null,
+        "discountable": true,
+        "external_id": null,
+        "metadata": null,
+        "collection": null,
+        "collection_id": null,
         "images": [
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-front.png",
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-back.png"
+          {
+            "id": "img_01HXNTYS8PEN1R58RKV4E11NTH",
+            "created_at": "2024-05-12T07:23:27.227Z",
+            "updated_at": "2024-05-12T07:23:27.227Z",
+            "deleted_at": null,
+            "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-front.png",
+            "metadata": null
+          },
+          {
+            "id": "img_01HXNTYS8PTK8D4TKAKKZ71JR6",
+            "created_at": "2024-05-12T07:23:27.227Z",
+            "updated_at": "2024-05-12T07:23:27.227Z",
+            "deleted_at": null,
+            "url": "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatshirt-vintage-back.png",
+            "metadata": null
+          }
         ],
         "options": [
-            {
-                "title": "Size",
-                "values": [
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                ]
-            }
+          {
+            "id": "opt_01HXNTYS98HMATYMM18G4NT63T",
+            "created_at": "2024-05-12T07:23:27.227Z",
+            "updated_at": "2024-05-12T07:23:27.227Z",
+            "deleted_at": null,
+            "title": "Size",
+            "product_id": "prod_01HXNTYS8YQE3ARG8FRVEENW1Q",
+            "metadata": null,
+            "values": [
+              {
+                "id": "optval_01HXNTYSA521QAMGVREX9EY0SR",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "value": "S",
+                "option_id": "opt_01HXNTYS98HMATYMM18G4NT63T",
+                "variant_id": "variant_01HXNTYSA59MMGQRDER894ZQW4",
+                "metadata": null
+              },
+              {
+                "id": "optval_01HXNTYSAYPJRJBM4YF01DMZR1",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "value": "M",
+                "option_id": "opt_01HXNTYS98HMATYMM18G4NT63T",
+                "variant_id": "variant_01HXNTYSAYNW604R0KXXDCM0GT",
+                "metadata": null
+              },
+              {
+                "id": "optval_01HXNTYSBPDB6HVQXJSVM7ZDT1",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "value": "L",
+                "option_id": "opt_01HXNTYS98HMATYMM18G4NT63T",
+                "variant_id": "variant_01HXNTYSBPS7CKANAE59NHCDPV",
+                "metadata": null
+              },
+              {
+                "id": "optval_01HXNTYSCX45VWXG1K1T6JKJRB",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "value": "XL",
+                "option_id": "opt_01HXNTYS98HMATYMM18G4NT63T",
+                "variant_id": "variant_01HXNTYSCXWY29DMQPWZCPDDX3",
+                "metadata": null
+              }
+            ]
+          }
         ],
+        "profiles": [
+          {
+            "id": "sp_01HXNTYR3Y9GX37GVHF0AJH434",
+            "created_at": "2024-05-12T07:23:26.672Z",
+            "updated_at": "2024-05-12T07:23:26.672Z",
+            "deleted_at": null,
+            "name": "Default Shipping Profile",
+            "type": "default",
+            "metadata": null
+          }
+        ],
+        "profile": {
+          "id": "sp_01HXNTYR3Y9GX37GVHF0AJH434",
+          "created_at": "2024-05-12T07:23:26.672Z",
+          "updated_at": "2024-05-12T07:23:26.672Z",
+          "deleted_at": null,
+          "name": "Default Shipping Profile",
+          "type": "default",
+          "metadata": null
+        },
+        "profile_id": "sp_01HXNTYR3Y9GX37GVHF0AJH434",
+        "sales_channels": [
+          {
+            "id": "sc_01HXNTYR50Q84YT2R7E4K2X0M2",
+            "created_at": "2024-05-12T07:23:26.672Z",
+            "updated_at": "2024-05-12T07:23:26.672Z",
+            "deleted_at": null,
+            "name": "Default Sales Channel",
+            "description": "Created by Medusa",
+            "is_disabled": false,
+            "metadata": null
+          }
+        ],
+        "tags": [],
+        "type": null,
         "variants": [
-            {
-                "title": "S",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 3350
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "S"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "M",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 3350
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "M"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "L",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 3350
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "L"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "XL",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 3350
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "XL"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            }
+          {
+            "id": "variant_01HXNTYSA59MMGQRDER894ZQW4",
+            "created_at": "2024-05-12T07:23:27.227Z",
+            "updated_at": "2024-05-12T07:23:27.227Z",
+            "deleted_at": null,
+            "title": "S",
+            "product_id": "prod_01HXNTYS8YQE3ARG8FRVEENW1Q",
+            "sku": null,
+            "barcode": null,
+            "ean": null,
+            "upc": null,
+            "variant_rank": 0,
+            "inventory_quantity": 100,
+            "allow_backorder": false,
+            "manage_inventory": true,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "metadata": null,
+            "options": [
+              {
+                "id": "optval_01HXNTYSA521QAMGVREX9EY0SR",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "value": "S",
+                "option_id": "opt_01HXNTYS98HMATYMM18G4NT63T",
+                "variant_id": "variant_01HXNTYSA59MMGQRDER894ZQW4",
+                "metadata": null
+              }
+            ],
+            "prices": [
+              {
+                "id": "ma_01HXNTYSAH33X7M3CYQBCH784B",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "currency_code": "eur",
+                "amount": 2950,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXNTYSA59MMGQRDER894ZQW4"
+              },
+              {
+                "id": "ma_01HXNTYSAHJE6K1AB57WF0DTGF",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "currency_code": "usd",
+                "amount": 3350,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXNTYSA59MMGQRDER894ZQW4"
+              }
+            ],
+            "original_price": null,
+            "calculated_price": null,
+            "original_price_incl_tax": null,
+            "calculated_price_incl_tax": null,
+            "original_tax": null,
+            "calculated_tax": null,
+            "tax_rates": null
+          },
+          {
+            "id": "variant_01HXNTYSAYNW604R0KXXDCM0GT",
+            "created_at": "2024-05-12T07:23:27.227Z",
+            "updated_at": "2024-05-12T07:23:27.227Z",
+            "deleted_at": null,
+            "title": "M",
+            "product_id": "prod_01HXNTYS8YQE3ARG8FRVEENW1Q",
+            "sku": null,
+            "barcode": null,
+            "ean": null,
+            "upc": null,
+            "variant_rank": 1,
+            "inventory_quantity": 100,
+            "allow_backorder": false,
+            "manage_inventory": true,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "metadata": null,
+            "options": [
+              {
+                "id": "optval_01HXNTYSAYPJRJBM4YF01DMZR1",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "value": "M",
+                "option_id": "opt_01HXNTYS98HMATYMM18G4NT63T",
+                "variant_id": "variant_01HXNTYSAYNW604R0KXXDCM0GT",
+                "metadata": null
+              }
+            ],
+            "prices": [
+              {
+                "id": "ma_01HXNTYSB9H6N1KTP4PRX5XA7W",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "currency_code": "eur",
+                "amount": 2950,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXNTYSAYNW604R0KXXDCM0GT"
+              },
+              {
+                "id": "ma_01HXNTYSBA4C2P4BZDPKCBD587",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "currency_code": "usd",
+                "amount": 3350,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXNTYSAYNW604R0KXXDCM0GT"
+              }
+            ],
+            "original_price": null,
+            "calculated_price": null,
+            "original_price_incl_tax": null,
+            "calculated_price_incl_tax": null,
+            "original_tax": null,
+            "calculated_tax": null,
+            "tax_rates": null
+          },
+          {
+            "id": "variant_01HXNTYSBPS7CKANAE59NHCDPV",
+            "created_at": "2024-05-12T07:23:27.227Z",
+            "updated_at": "2024-05-12T07:23:27.227Z",
+            "deleted_at": null,
+            "title": "L",
+            "product_id": "prod_01HXNTYS8YQE3ARG8FRVEENW1Q",
+            "sku": null,
+            "barcode": null,
+            "ean": null,
+            "upc": null,
+            "variant_rank": 2,
+            "inventory_quantity": 100,
+            "allow_backorder": false,
+            "manage_inventory": true,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "metadata": null,
+            "options": [
+              {
+                "id": "optval_01HXNTYSBPDB6HVQXJSVM7ZDT1",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "value": "L",
+                "option_id": "opt_01HXNTYS98HMATYMM18G4NT63T",
+                "variant_id": "variant_01HXNTYSBPS7CKANAE59NHCDPV",
+                "metadata": null
+              }
+            ],
+            "prices": [
+              {
+                "id": "ma_01HXNTYSC7KR20CH3E1TVYQNBW",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "currency_code": "eur",
+                "amount": 2950,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXNTYSBPS7CKANAE59NHCDPV"
+              },
+              {
+                "id": "ma_01HXNTYSC72XY7XTXK8D4QPDDG",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "currency_code": "usd",
+                "amount": 3350,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXNTYSBPS7CKANAE59NHCDPV"
+              }
+            ],
+            "original_price": null,
+            "calculated_price": null,
+            "original_price_incl_tax": null,
+            "calculated_price_incl_tax": null,
+            "original_tax": null,
+            "calculated_tax": null,
+            "tax_rates": null
+          },
+          {
+            "id": "variant_01HXNTYSCXWY29DMQPWZCPDDX3",
+            "created_at": "2024-05-12T07:23:27.227Z",
+            "updated_at": "2024-05-12T07:23:27.227Z",
+            "deleted_at": null,
+            "title": "XL",
+            "product_id": "prod_01HXNTYS8YQE3ARG8FRVEENW1Q",
+            "sku": null,
+            "barcode": null,
+            "ean": null,
+            "upc": null,
+            "variant_rank": 3,
+            "inventory_quantity": 100,
+            "allow_backorder": false,
+            "manage_inventory": true,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "metadata": null,
+            "options": [
+              {
+                "id": "optval_01HXNTYSCX45VWXG1K1T6JKJRB",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "value": "XL",
+                "option_id": "opt_01HXNTYS98HMATYMM18G4NT63T",
+                "variant_id": "variant_01HXNTYSCXWY29DMQPWZCPDDX3",
+                "metadata": null
+              }
+            ],
+            "prices": [
+              {
+                "id": "ma_01HXNTYSDKY9BY8V2KJZQR3RQX",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "currency_code": "eur",
+                "amount": 2950,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXNTYSCXWY29DMQPWZCPDDX3"
+              },
+              {
+                "id": "ma_01HXNTYSDKT60X1AJG15H1E5FJ",
+                "created_at": "2024-05-12T07:23:27.227Z",
+                "updated_at": "2024-05-12T07:23:27.227Z",
+                "deleted_at": null,
+                "currency_code": "usd",
+                "amount": 3350,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXNTYSCXWY29DMQPWZCPDDX3"
+              }
+            ],
+            "original_price": null,
+            "calculated_price": null,
+            "original_price_incl_tax": null,
+            "calculated_price_incl_tax": null,
+            "original_tax": null,
+            "calculated_tax": null,
+            "tax_rates": null
+          }
         ]
-    },
-    {
-        "title": "Medusa Sweatpants",
-        "categories": [
-            {
-                "id": "pcat_pants"
-            }
-        ],
-        "subtitle": null,
-        "description": "Reimagine the feeling of classic sweatpants. With our cotton sweatpants, everyday essentials no longer have to be ordinary.",
-        "handle": "sweatpants",
+      },
+      {
+        "id": "prod_01HXTJ0B4PVV51ZMJGDHJ7BGH8",
+        "created_at": "2024-05-14T03:23:12.337Z",
+        "updated_at": "2024-05-14T03:23:12.337Z",
+        "deleted_at": null,
+        "title": "Gipsy Long Dress",
+        "subtitle": "Bohemian and colourful",
+        "description": "A captivating blend of colors and patterns that exude bohemian charm. Crafted with meticulous attention to detail, this unique garment features intricate embroidery and flowing fabric, reminiscent of a whimsical dream. Perfect for those who embrace free-spirited style, this dress effortlessly combines elegance with a touch of wanderlust. Stand out from the crowd and embrace your inner bohemian goddess with this enchanting ensemble.",
+        "handle": "dresses",
         "is_giftcard": false,
-        "weight": 400,
+        "status": "published",
+        "thumbnail": "http://res.cloudinary.com/dteriun0k/image/upload/v1715656988/as-%282%29_1715656985426.jpg",
+        "weight": null,
+        "length": null,
+        "height": null,
+        "width": null,
+        "hs_code": null,
+        "origin_country": null,
+        "mid_code": null,
+        "material": "100% organic Cotton",
+        "type_id": null,
+        "discountable": true,
+        "external_id": null,
+        "metadata": null,
+        "collection": null,
+        "collection_id": null,
         "images": [
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatpants-gray-front.png",
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/sweatpants-gray-back.png"
+          {
+            "id": "img_01HXTJ0A4EY5AKMY09H4W5TGBC",
+            "created_at": "2024-05-14T03:23:12.337Z",
+            "updated_at": "2024-05-14T03:23:12.337Z",
+            "deleted_at": null,
+            "url": "http://res.cloudinary.com/dteriun0k/image/upload/v1715656983/as-%282%29_1715656979809.jpg",
+            "metadata": null
+          }
         ],
         "options": [
-            {
-                "title": "Size",
-                "values": [
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                ]
-            }
+          {
+            "id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+            "created_at": "2024-05-14T03:23:12.337Z",
+            "updated_at": "2024-05-14T03:23:12.337Z",
+            "deleted_at": null,
+            "title": "Taglia",
+            "product_id": "prod_01HXTJ0B4PVV51ZMJGDHJ7BGH8",
+            "metadata": null,
+            "values": [
+              {
+                "id": "optval_01HXTJ3P59WVYNMNBW4C2CRW8J",
+                "created_at": "2024-05-14T03:25:02.879Z",
+                "updated_at": "2024-05-14T03:25:02.879Z",
+                "deleted_at": null,
+                "value": "S",
+                "option_id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+                "variant_id": "variant_01HXTJ3P598QFA84RS1ZW84SX2",
+                "metadata": null
+              },
+              {
+                "id": "optval_01HXTJ5RT4DQ7MGF0RV8371NAY",
+                "created_at": "2024-05-14T03:26:11.157Z",
+                "updated_at": "2024-05-14T03:26:11.157Z",
+                "deleted_at": null,
+                "value": "M",
+                "option_id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+                "variant_id": "variant_01HXTJ5RT4E7S63TPFZGH6H3A1",
+                "metadata": null
+              },
+              {
+                "id": "optval_01HXTJ7PWPBK0W6SDD3T8GRTAF",
+                "created_at": "2024-05-14T03:27:14.756Z",
+                "updated_at": "2024-05-14T03:27:14.756Z",
+                "deleted_at": null,
+                "value": "L",
+                "option_id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+                "variant_id": "variant_01HXTJ7PWPXD4ZMN1RV6WRZRCP",
+                "metadata": null
+              },
+              {
+                "id": "optval_01HXTJ8PEPA9PD2PSNE7RKA4BQ",
+                "created_at": "2024-05-14T03:27:47.001Z",
+                "updated_at": "2024-05-14T03:27:47.001Z",
+                "deleted_at": null,
+                "value": "XL",
+                "option_id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+                "variant_id": "variant_01HXTJ8PEP53H9Z175JFV8D9VF",
+                "metadata": null
+              },
+              {
+                "id": "optval_01HXTJ9JP9EJ41C2EYXK10TY7E",
+                "created_at": "2024-05-14T03:28:15.919Z",
+                "updated_at": "2024-05-14T03:28:15.919Z",
+                "deleted_at": null,
+                "value": "XXL",
+                "option_id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+                "variant_id": "variant_01HXTJ9JP9CYTW1NRS00CC66JC",
+                "metadata": null
+              }
+            ]
+          }
         ],
+        "profiles": [
+          {
+            "id": "sp_01HXNTYR3Y9GX37GVHF0AJH434",
+            "created_at": "2024-05-12T07:23:26.672Z",
+            "updated_at": "2024-05-12T07:23:26.672Z",
+            "deleted_at": null,
+            "name": "Default Shipping Profile",
+            "type": "default",
+            "metadata": null
+          }
+        ],
+        "profile": {
+          "id": "sp_01HXNTYR3Y9GX37GVHF0AJH434",
+          "created_at": "2024-05-12T07:23:26.672Z",
+          "updated_at": "2024-05-12T07:23:26.672Z",
+          "deleted_at": null,
+          "name": "Default Shipping Profile",
+          "type": "default",
+          "metadata": null
+        },
+        "profile_id": "sp_01HXNTYR3Y9GX37GVHF0AJH434",
+        "sales_channels": [
+          {
+            "id": "sc_01HXNTYR50Q84YT2R7E4K2X0M2",
+            "created_at": "2024-05-12T07:23:26.672Z",
+            "updated_at": "2024-05-12T07:23:26.672Z",
+            "deleted_at": null,
+            "name": "Default Sales Channel",
+            "description": "Created by Medusa",
+            "is_disabled": false,
+            "metadata": null
+          }
+        ],
+        "tags": [],
+        "type": null,
         "variants": [
-            {
-                "title": "S",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 3350
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "S"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "M",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 3350
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "M"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "L",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 3350
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "L"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "XL",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2950
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 3350
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "XL"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            }
+          {
+            "id": "variant_01HXTJ3P598QFA84RS1ZW84SX2",
+            "created_at": "2024-05-14T03:25:02.879Z",
+            "updated_at": "2024-05-14T03:25:02.879Z",
+            "deleted_at": null,
+            "title": "S",
+            "product_id": "prod_01HXTJ0B4PVV51ZMJGDHJ7BGH8",
+            "sku": null,
+            "barcode": null,
+            "ean": null,
+            "upc": null,
+            "variant_rank": 0,
+            "inventory_quantity": 20,
+            "allow_backorder": true,
+            "manage_inventory": true,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": "",
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "metadata": {},
+            "options": [
+              {
+                "id": "optval_01HXTJ3P59WVYNMNBW4C2CRW8J",
+                "created_at": "2024-05-14T03:25:02.879Z",
+                "updated_at": "2024-05-14T03:25:02.879Z",
+                "deleted_at": null,
+                "value": "S",
+                "option_id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+                "variant_id": "variant_01HXTJ3P598QFA84RS1ZW84SX2",
+                "metadata": null
+              }
+            ],
+            "prices": [
+              {
+                "id": "ma_01HXTJ4TNS6SBBAFBXD1FC4PXK",
+                "created_at": "2024-05-14T03:28:50.439Z",
+                "updated_at": "2024-05-14T03:28:50.439Z",
+                "deleted_at": null,
+                "currency_code": "usd",
+                "amount": 4500,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXTJ3P598QFA84RS1ZW84SX2"
+              },
+              {
+                "id": "ma_01HXTJ4TNS8N7MMMNSA7FW0C8A",
+                "created_at": "2024-05-14T03:28:50.439Z",
+                "updated_at": "2024-05-14T03:28:50.439Z",
+                "deleted_at": null,
+                "currency_code": "eur",
+                "amount": 4000,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXTJ3P598QFA84RS1ZW84SX2"
+              }
+            ],
+            "original_price": null,
+            "calculated_price": null,
+            "original_price_incl_tax": null,
+            "calculated_price_incl_tax": null,
+            "original_tax": null,
+            "calculated_tax": null,
+            "tax_rates": null
+          },
+          {
+            "id": "variant_01HXTJ5RT4E7S63TPFZGH6H3A1",
+            "created_at": "2024-05-14T03:26:11.157Z",
+            "updated_at": "2024-05-14T03:26:11.157Z",
+            "deleted_at": null,
+            "title": "M",
+            "product_id": "prod_01HXTJ0B4PVV51ZMJGDHJ7BGH8",
+            "sku": null,
+            "barcode": null,
+            "ean": null,
+            "upc": null,
+            "variant_rank": 1,
+            "inventory_quantity": 38,
+            "allow_backorder": true,
+            "manage_inventory": true,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "metadata": {},
+            "options": [
+              {
+                "id": "optval_01HXTJ5RT4DQ7MGF0RV8371NAY",
+                "created_at": "2024-05-14T03:26:11.157Z",
+                "updated_at": "2024-05-14T03:26:11.157Z",
+                "deleted_at": null,
+                "value": "M",
+                "option_id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+                "variant_id": "variant_01HXTJ5RT4E7S63TPFZGH6H3A1",
+                "metadata": null
+              }
+            ],
+            "prices": [
+              {
+                "id": "ma_01HXTJ70CXJEFXFNWR8KSCSEDM",
+                "created_at": "2024-05-14T03:28:50.442Z",
+                "updated_at": "2024-05-14T03:28:50.442Z",
+                "deleted_at": null,
+                "currency_code": "usd",
+                "amount": 4500,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXTJ5RT4E7S63TPFZGH6H3A1"
+              },
+              {
+                "id": "ma_01HXTJ70CXSZTTQMZWB0FCTSEW",
+                "created_at": "2024-05-14T03:28:50.442Z",
+                "updated_at": "2024-05-14T03:28:50.442Z",
+                "deleted_at": null,
+                "currency_code": "eur",
+                "amount": 4000,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXTJ5RT4E7S63TPFZGH6H3A1"
+              }
+            ],
+            "original_price": null,
+            "calculated_price": null,
+            "original_price_incl_tax": null,
+            "calculated_price_incl_tax": null,
+            "original_tax": null,
+            "calculated_tax": null,
+            "tax_rates": null
+          },
+          {
+            "id": "variant_01HXTJ7PWPXD4ZMN1RV6WRZRCP",
+            "created_at": "2024-05-14T03:27:14.756Z",
+            "updated_at": "2024-05-14T03:27:14.756Z",
+            "deleted_at": null,
+            "title": "L",
+            "product_id": "prod_01HXTJ0B4PVV51ZMJGDHJ7BGH8",
+            "sku": null,
+            "barcode": null,
+            "ean": null,
+            "upc": null,
+            "variant_rank": 2,
+            "inventory_quantity": 100,
+            "allow_backorder": true,
+            "manage_inventory": true,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "metadata": {},
+            "options": [
+              {
+                "id": "optval_01HXTJ7PWPBK0W6SDD3T8GRTAF",
+                "created_at": "2024-05-14T03:27:14.756Z",
+                "updated_at": "2024-05-14T03:27:14.756Z",
+                "deleted_at": null,
+                "value": "L",
+                "option_id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+                "variant_id": "variant_01HXTJ7PWPXD4ZMN1RV6WRZRCP",
+                "metadata": null
+              }
+            ],
+            "prices": [
+              {
+                "id": "ma_01HXTJANNNCSNWYYG3084NY0EM",
+                "created_at": "2024-05-14T03:28:50.456Z",
+                "updated_at": "2024-05-14T03:28:50.456Z",
+                "deleted_at": null,
+                "currency_code": "eur",
+                "amount": 4000,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXTJ7PWPXD4ZMN1RV6WRZRCP"
+              },
+              {
+                "id": "ma_01HXTJANNNEP1AT0G7JBKSR0W8",
+                "created_at": "2024-05-14T03:28:50.456Z",
+                "updated_at": "2024-05-14T03:28:50.456Z",
+                "deleted_at": null,
+                "currency_code": "usd",
+                "amount": 4500,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXTJ7PWPXD4ZMN1RV6WRZRCP"
+              }
+            ],
+            "original_price": null,
+            "calculated_price": null,
+            "original_price_incl_tax": null,
+            "calculated_price_incl_tax": null,
+            "original_tax": null,
+            "calculated_tax": null,
+            "tax_rates": null
+          },
+          {
+            "id": "variant_01HXTJ8PEP53H9Z175JFV8D9VF",
+            "created_at": "2024-05-14T03:27:47.001Z",
+            "updated_at": "2024-05-14T03:27:47.001Z",
+            "deleted_at": null,
+            "title": "XL",
+            "product_id": "prod_01HXTJ0B4PVV51ZMJGDHJ7BGH8",
+            "sku": null,
+            "barcode": null,
+            "ean": null,
+            "upc": null,
+            "variant_rank": 3,
+            "inventory_quantity": 50,
+            "allow_backorder": true,
+            "manage_inventory": true,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "metadata": {},
+            "options": [
+              {
+                "id": "optval_01HXTJ8PEPA9PD2PSNE7RKA4BQ",
+                "created_at": "2024-05-14T03:27:47.001Z",
+                "updated_at": "2024-05-14T03:27:47.001Z",
+                "deleted_at": null,
+                "value": "XL",
+                "option_id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+                "variant_id": "variant_01HXTJ8PEP53H9Z175JFV8D9VF",
+                "metadata": null
+              }
+            ],
+            "prices": [
+              {
+                "id": "ma_01HXTJANNHQFFB6YQAEK16NZEF",
+                "created_at": "2024-05-14T03:28:50.440Z",
+                "updated_at": "2024-05-14T03:28:50.440Z",
+                "deleted_at": null,
+                "currency_code": "eur",
+                "amount": 4000,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXTJ8PEP53H9Z175JFV8D9VF"
+              },
+              {
+                "id": "ma_01HXTJANNHR52W743DCYKYA8QM",
+                "created_at": "2024-05-14T03:28:50.440Z",
+                "updated_at": "2024-05-14T03:28:50.440Z",
+                "deleted_at": null,
+                "currency_code": "usd",
+                "amount": 4500,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXTJ8PEP53H9Z175JFV8D9VF"
+              }
+            ],
+            "original_price": null,
+            "calculated_price": null,
+            "original_price_incl_tax": null,
+            "calculated_price_incl_tax": null,
+            "original_tax": null,
+            "calculated_tax": null,
+            "tax_rates": null
+          },
+          {
+            "id": "variant_01HXTJ9JP9CYTW1NRS00CC66JC",
+            "created_at": "2024-05-14T03:28:15.919Z",
+            "updated_at": "2024-05-14T03:28:15.919Z",
+            "deleted_at": null,
+            "title": "XXL",
+            "product_id": "prod_01HXTJ0B4PVV51ZMJGDHJ7BGH8",
+            "sku": null,
+            "barcode": null,
+            "ean": null,
+            "upc": null,
+            "variant_rank": 4,
+            "inventory_quantity": 40,
+            "allow_backorder": true,
+            "manage_inventory": true,
+            "hs_code": null,
+            "origin_country": null,
+            "mid_code": null,
+            "material": null,
+            "weight": null,
+            "length": null,
+            "height": null,
+            "width": null,
+            "metadata": {},
+            "options": [
+              {
+                "id": "optval_01HXTJ9JP9EJ41C2EYXK10TY7E",
+                "created_at": "2024-05-14T03:28:15.919Z",
+                "updated_at": "2024-05-14T03:28:15.919Z",
+                "deleted_at": null,
+                "value": "XXL",
+                "option_id": "opt_01HXTJ0C2Q76FP9HW0EMSE2EEG",
+                "variant_id": "variant_01HXTJ9JP9CYTW1NRS00CC66JC",
+                "metadata": null
+              }
+            ],
+            "prices": [
+              {
+                "id": "ma_01HXTJANNKPE8H9XJWS3NVD9FA",
+                "created_at": "2024-05-14T03:28:50.452Z",
+                "updated_at": "2024-05-14T03:28:50.452Z",
+                "deleted_at": null,
+                "currency_code": "usd",
+                "amount": 4500,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXTJ9JP9CYTW1NRS00CC66JC"
+              },
+              {
+                "id": "ma_01HXTJANNKNBQ54PSZNA8KTR0S",
+                "created_at": "2024-05-14T03:28:50.452Z",
+                "updated_at": "2024-05-14T03:28:50.452Z",
+                "deleted_at": null,
+                "currency_code": "eur",
+                "amount": 4000,
+                "min_quantity": null,
+                "max_quantity": null,
+                "price_list_id": null,
+                "region_id": null,
+                "price_list": null,
+                "variant_id": "variant_01HXTJ9JP9CYTW1NRS00CC66JC"
+              }
+            ],
+            "original_price": null,
+            "calculated_price": null,
+            "original_price_incl_tax": null,
+            "calculated_price_incl_tax": null,
+            "original_tax": null,
+            "calculated_tax": null,
+            "tax_rates": null
+          }
         ]
-    },
-    {
-        "title": "Medusa Shorts",
-        "categories": [
-            {
-                "id": "pcat_merch"
-            }
-        ],
-        "subtitle": null,
-        "description": "Reimagine the feeling of classic shorts. With our cotton shorts, everyday essentials no longer have to be ordinary.",
-        "handle": "shorts",
-        "is_giftcard": false,
-        "weight": 400,
-        "images": [
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/shorts-vintage-front.png",
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/shorts-vintage-back.png"
-        ],
-        "options": [
-            {
-                "title": "Size",
-                "values": [
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                ]
-            }
-        ],
-        "variants": [
-            {
-                "title": "S",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2500
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2850
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "S"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "M",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2500
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2850
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "M"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "L",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2500
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2850
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "L"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "XL",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 2500
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 2850
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "XL"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            }
-        ]
-    },
-    {
-        "title": "Medusa Hoodie",
-        "categories": [
-            {
-                "id": "pcat_merch"
-            },
-            {
-                "id": "pcat_hidden_featured"
-            }
-        ],
-        "subtitle": null,
-        "description": "Reimagine the feeling of a classic hoodie. With our cotton hoodie, everyday essentials no longer have to be ordinary.",
-        "handle": "hoodie",
-        "is_giftcard": false,
-        "weight": 400,
-        "images": [
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/black_hoodie_front.png",
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/black_hoodie_back.png"
-        ],
-        "options": [
-            {
-                "title": "Size",
-                "values": [
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                ]
-            }
-        ],
-        "variants": [
-            {
-                "title": "S",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 3650
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 4150
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "S"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "M",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 3650
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 4150
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "M"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "L",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 3650
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 4150
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "L"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "XL",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 3650
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 4150
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "XL"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            }
-        ]
-    },
-    {
-        "title": "Medusa Longsleeve",
-        "categories": [
-            {
-                "id": "pcat_shirts"
-            },
-            {
-                "id": "pcat_hidden_featured"
-            }
-        ],
-        "subtitle": null,
-        "description": "Reimagine the feeling of a classic longsleeve. With our cotton longsleeve, everyday essentials no longer have to be ordinary.",
-        "handle": "longsleeve",
-        "is_giftcard": false,
-        "weight": 400,
-        "images": [
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/ls-black-front.png",
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/ls-black-back.png"
-        ],
-        "options": [
-            {
-                "title": "Size",
-                "values": [
-                    "S",
-                    "M",
-                    "L",
-                    "XL"
-                ]
-            }
-        ],
-        "variants": [
-            {
-                "title": "S",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 3650
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 4150
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "S"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "M",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 3650
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 4150
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "M"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "L",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 3650
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 4150
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "L"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            },
-            {
-                "title": "XL",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 3650
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 4150
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "XL"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            }
-        ]
-    },
-    {
-        "title": "Medusa Coffee Mug",
-        "categories": [
-            {
-                "id": "pcat_merch"
-            },
-            {
-                "id": "pcat_hidden_featured"
-            }
-        ],
-        "subtitle": null,
-        "description": "Every programmer's best friend.",
-        "handle": "coffee-mug",
-        "is_giftcard": false,
-        "weight": 400,
-        "images": [
-            "https://medusa-public-images.s3.eu-west-1.amazonaws.com/coffee-mug.png"
-        ],
-        "options": [
-            {
-                "title": "Size",
-                "values": [
-                    "One Size"
-                ]
-            }
-        ],
-        "variants": [
-            {
-                "title": "One Size",
-                "prices": [
-                    {
-                        "currency_code": "eur",
-                        "amount": 1000
-                    },
-                    {
-                        "currency_code": "usd",
-                        "amount": 1200
-                    }
-                ],
-                "options": [
-                    {
-                        "value": "One Size"
-                    }
-                ],
-                "inventory_quantity": 100,
-                "manage_inventory": true
-            }
-        ]
-    }
+      }
 ]

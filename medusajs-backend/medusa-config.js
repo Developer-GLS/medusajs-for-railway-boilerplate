@@ -73,27 +73,30 @@ const plugins = [
     },
   },
   {
-    resolve: `medusa-plugin-algolia`,
+    resolve: `medusa-plugin-meilisearch`,
     options: {
-      // other options...
+      config: {
+        host: process.env.MEILISEARCH_HOST,
+        apiKey: process.env.MEILISEARCH_API_KEY,
+      },
       settings: {
         products: {
           indexSettings: {
-            searchableAttributes: ["title", "description"],
-            attributesToRetrieve: [
-              "id",
-              "title",
+            searchableAttributes: [
+              "title", 
               "description",
-              "handle",
-              "thumbnail",
-              "variants",
               "variant_sku",
-              "options",
-              "collection_title",
-              "collection_handle",
-              "images",
+            ],
+            displayedAttributes: [
+              "id", 
+              "title", 
+              "description", 
+              "variant_sku", 
+              "thumbnail", 
+              "handle",
             ],
           },
+          primaryKey: "id",
         },
       },
     },
